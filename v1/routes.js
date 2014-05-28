@@ -30,7 +30,7 @@ module.exports = function() {
 					throw { code: "INVALID_TOKEN" };
 				}
 
-				if(!tokens[req.headers.api_secret]) {
+				if(!tokens[req.headers.api_token].secret !== req.headers.api_secret) {
 					throw { code: "INVALID_TOKEN" };
 				}
 
