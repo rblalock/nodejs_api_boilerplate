@@ -3,10 +3,9 @@ Node.JS REST API Server Boilerplate
 What is it?
 ===============
 
-This is a boilerplate / staring point for a REST API server.  The purpose of this is to give someone
-a quick head start and a few conventions while creating REST API.  There are many frameworks and tools
-out there and this does not try to be any of them.  This is simple some small conventions put together
-for a start of a project.
+This is a boilerplate / starting point for a REST API server.  The purpose of this is to give someone
+a quick head start and a few conventions while creating a REST API.  There are many frameworks and tools
+out there and this does not try to be any of them.  This simply provides some small conventions for a start of a project.
 
 Setup
 ===============
