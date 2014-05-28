@@ -1,6 +1,4 @@
 {
-	"name": "Boilerplate API Server",
-	"description": "Boilerplate API Server",
 	"apidocFilename": "apidoc.md",
 	"version": "1.0.0",
 	"private": true,
