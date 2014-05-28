@@ -1,0 +1,14 @@
+{
+	"name": "Boilerplate API Server",
+	"description": "Boilerplate API Server",
+	"apidocFilename": "apidoc.md",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies": {
+		"express": "4.x",
+		"moment": "*",
+		"request": "*",
+		"underscore": "*",
+		"body-parser": "~1.2.0"
+	}
+}
